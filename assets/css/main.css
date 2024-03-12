@@ -1495,6 +1495,7 @@ input, select, textarea {
 	}
 
 	form input[type="text"],
+	form input[type="date"],
 	form input[type="email"],
 	form input[type="password"],
 	form select,
@@ -1503,7 +1504,7 @@ input, select, textarea {
 		display: block;
 		width: 100%;
 		border-radius: 8px;
-		border: solid 1px #eee;
+		border: solid 1px #010101;
 	}
 
 		form input[type="text"]:focus,
@@ -2672,6 +2673,7 @@ input, select, textarea {
 			#content {
 				padding-bottom: 3em;
 			}
+			
 
 		/* Footer */
 
