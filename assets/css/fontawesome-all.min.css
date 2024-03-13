@@ -78,10 +78,10 @@
    line-height: inherit;
  }
  .fa-border {
-   border: 0.08em solid #eee;
-   border-radius: 0.1em;
-   padding: 0.2em 0.25em 0.15em;
- }
+  border: 0.15em solid #7FFFD4; /* Cambio de tamaño y color */
+  border-radius: 0.3em; /* Aumento del radio para un borde más redondeado */
+  padding: 0.4em 0.5em 0.3em; /* Ajuste del relleno */
+}
  .fa-pull-left {
    float: left;
  }
